@@ -1,0 +1,24 @@
+
+body{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+#playarea{
+    background-color: aquamarine;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+    height: 400px;
+    width: 600px;
+    padding-top: 50px;
+}
+
+.edit-button{
+    border: 5px solid goldenrod;
+    width: 100px;
+    height: 50px;
+    border-radius: 100px;
+    background-color: black;
+    color: beige;
+}
